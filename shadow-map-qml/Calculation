@@ -1,0 +1,6 @@
+#include "Calculation"
+
+Calculation::Calculation()
+{
+
+}
